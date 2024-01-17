@@ -19,6 +19,6 @@ h1{
 .text-skyblue{
     color: skyblue;
 }
-#p{
+#parent p{
     font-weight: bold;
 }
